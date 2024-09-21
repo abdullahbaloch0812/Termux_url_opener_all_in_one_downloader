@@ -1,0 +1,13 @@
+echo "--------------------------------------------"
+echo "1: Download with yt-dlp (Fixed Bandwidth Throttling by YouTube)"
+echo "2: Download with ffmpeg(m3u8/m3u)"
+echo "3: Download with wget (Recursive)"
+echo "4: Download with spotdl (Spotify All-in-one)"
+echo "5: Download with yt-dlp and extract audio (Fixed Bandwidth Throttling by YouTube)"
+echo "6: Download with youtube-dl"
+echo "7: Download with youtube-dl and extract audio"
+echo "8: Download with you-get"
+echo "9: Download with rbtv-dl (Red Bull TV)"
+echo "0: Download with bandcamp-dl (Batch Download from Bandcamp Artist)"
+echo "Default: Download with yt-dlp (Fixed Bandwidth Throttling by YouTube)"
+read n
